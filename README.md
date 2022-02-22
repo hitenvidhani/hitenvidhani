@@ -2,7 +2,7 @@
 
 I'm Hiten Vidhani an undergraduate student majoring in Computer Science and Mathematics.
 
- [![Linkedin Badge](https://img.shields.io/badge/-hiten-vidhani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/hiten-vidhani) [![Mail Badge](https://img.shields.io/badge/-@hi10-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/__hi10_) [![Mail Badge](https://img.shields.io/badge/-Hiten-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vidhani.hiten2001@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-hiten-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/hiten-vidhani) [![Mail Badge](https://img.shields.io/badge/-@hi10-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/__hi10_) [![Mail Badge](https://img.shields.io/badge/-Hiten-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vidhani.hiten2001@gmail.com)
 
 
 <!-- #### Technical skills -->
