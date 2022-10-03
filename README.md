@@ -11,3 +11,7 @@ I am an undergrad at BITS Pilani, pursuing Math+CS. Currently exploring my inter
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitenvidhani&show_icons=true&locale=en&layout=compact" alt="hitenvidhani" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitenvidhani&show_icons=true&locale=en" alt="hitenvidhani" /></p>
+
