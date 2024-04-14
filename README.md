@@ -13,6 +13,6 @@
 <!-- #### Technical skills -->
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
+# GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitenvidhani&show_icons=true&locale=en" alt="hitenvidhani" /></p>
 
