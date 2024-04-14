@@ -1,8 +1,8 @@
-## Hi I'm Hiten <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hello there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-- An undergraduate student at BITS Pilani, pursuing Computer Science and Math. 
-- Currently exploring my interests in Software Development. 
-- Excited to collaborate on interesting projects. 
+- I'm Hiten, a Computer Science and Math undergradute at BITS Pilani. 
+- Passionate about software development and currently exploring various avenues within the field. 
+- Eager to collaborate on exciting projects, if you have something brewing let's connect!
 
 Connect with me:
 
