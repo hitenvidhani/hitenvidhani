@@ -2,8 +2,9 @@
 
 I am an undergraduate student at BITS Pilani, pursuing Computer Science. Currently exploring my interests in Software Development.
 
-You can react out to me via:
- [![Linkedin Badge](https://img.shields.io/badge/-hiten-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/hiten-vidhani) [![Mail Badge](https://img.shields.io/badge/-Hiten-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vidhani.hiten2001@gmail.com)
+Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-hiten-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](linkedin.com/in/hiten-vidhani) [![Mail Badge](https://img.shields.io/badge/-Hiten-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vidhani.hiten2001@gmail.com)
 
 
 <!-- #### Technical skills -->
